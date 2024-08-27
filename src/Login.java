@@ -5,7 +5,7 @@ public class Login {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String u_name = "vyasmanimala44@gmail.com";
-		String pwd = "Vyas@2003";
+		String pwd = "suiii@2003";
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter username");
 		String ip1 = sc.nextLine();
